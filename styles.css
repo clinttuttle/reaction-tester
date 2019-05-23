@@ -1,0 +1,22 @@
+ /*this will remove the margin around entire site*/
+ body {
+	 margin:10;    	
+ }
+
+ /* Define styling for - topbar div */
+ #circle {
+	 background-color:red;
+	 height:200px;
+	 width: 200px;
+	 border-radius: 150px;
+ }
+
+   /* Define styling for - topbar div */
+ #box {
+	 height:200px;
+	 width: 200px;
+ }
+ 
+ #counter {
+ 	 font-weight: bold;
+ }
